@@ -1,0 +1,1 @@
+﻿getBenchUtils().initData("BasicLink", 10, true);
